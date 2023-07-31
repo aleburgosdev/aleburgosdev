@@ -1,11 +1,12 @@
 ### Hi , I´m Alejandro 👋😍💻
 
-´´´´js
+ ```js
 const Alejandro = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Node],
   }
+```
 
 Social Networks🌎:
 -[Linkedin](https://www.linkedin.com/in/alejandro-burgos-423b00214/)
