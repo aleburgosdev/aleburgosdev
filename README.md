@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi , I´m Alejandro 👋😍💻
+
+´´´´js
+const Alejandro = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node],
+  }
+
+Social Networks🌎:
+-[Linkedin](https://www.linkedin.com/in/alejandro-burgos-423b00214/)
 
 <!--
 **aleburgosdev/aleburgosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
