@@ -4,11 +4,11 @@
 const Alejandro = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node],
+  tools: [React, Node]
   }
 ```
 
-Social Networks🌎:
+Social Networks 🌎:
 -[Linkedin](https://www.linkedin.com/in/alejandro-burgos-423b00214/)
 
 <!--
