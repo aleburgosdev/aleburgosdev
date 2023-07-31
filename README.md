@@ -9,7 +9,8 @@ const Alejandro = {
 ```
 
 Social Networks 🌎:
--[Linkedin](https://www.linkedin.com/in/alejandro-burgos-423b00214/)
+- [Linkedin](https://www.linkedin.com/in/alejandro-burgos-423b00214/)
+
 
 <!--
 **aleburgosdev/aleburgosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
