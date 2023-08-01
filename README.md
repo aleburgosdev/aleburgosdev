@@ -1,6 +1,6 @@
 
   <p align="center">
-  <img src="https://github.com/aleburgosdev/aleburgosdev/assets/86331769/517c12cd-bbf7-42e7-8e40-903955223473" alt="Sublime's custom image"/>
+  <img src="https://github.com/aleburgosdev/aleburgosdev/assets/86331769/c4152de0-bfd6-4ba3-966a-e31c3c67b269"/>
 </p>
 
 ---
