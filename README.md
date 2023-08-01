@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+<img align='right' src="https://github.com/aleburgosdev/aleburgosdev/assets/86331769/87f1cdba-507c-4d9d-8d69-04d60a4b8d7c" width="200">
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
