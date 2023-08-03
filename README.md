@@ -15,11 +15,11 @@
  
 - 🌱 &nbsp; Aprendiendo html, csss, frameworks, java scripts, react.
  
-- ✍️ &nbsp; Persiguiendo el desarrollo web como psatiempo y desarrollo profesional.
+- ✍️ &nbsp; Persiguiendo el desarrollo web como pasatiempo y desarrollo profesional.
 
 ---
 
-<h3 align="left">Contacteme🌎:</h3>
+<h3 align="left">Contácteme🌎:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandro-burgos-423b00214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-burgos-423b00214/" height="30" width="40" /></a>
 </p>
